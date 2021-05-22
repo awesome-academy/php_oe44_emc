@@ -6,8 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Product_Image extends Model
 {
-    public $table = "product_images";
-    
     /**
      * The attributes that are mass assignable.
      *
